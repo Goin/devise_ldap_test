@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-DevizeLdapTest::Application.load_tasks
+DeviseLdapTest::Application.load_tasks

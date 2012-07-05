@@ -1,10 +1,10 @@
 development:
   host: matsmini.apple.com
-  database: devize_ldap_test_development
+  database: devise_ldap_test_development
 
 test:
   host: localhost
-  database: devize_ldap_test_test
+  database: devise_ldap_test_test
 
 # set these environment variables on your prod server
 production:
